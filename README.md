@@ -13,9 +13,9 @@
 
 🔧 Tools and Platforms:
 
-- Design: Figma
+- Design: Figma to html
 - AI Assistance: ChatGPT
 - IDE: Visual Studio Code (VSCode)
-- Google, Stack Overflow
+- Google, Stack Overflow, Documentation
 
 🚀 Let's build amazing things together! 🌟
