@@ -9,7 +9,8 @@
 
 🌱 Currently, I'm learning backend development with:
 
-- **Backend:** Node.js, Express.js, MongoDB
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
 
 🔧 Tools and Platforms:
 
