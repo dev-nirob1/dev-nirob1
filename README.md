@@ -4,7 +4,7 @@
 
 🌐 I'm particularly skilled in:
 
-- **Front-End:** HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js
+- **Front-End:** HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Redux-Toolkit
 - **Version Control:** Git & GitHub
 
 🌱 Currently, I'm learning backend development with:
