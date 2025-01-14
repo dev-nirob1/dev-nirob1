@@ -1,22 +1,25 @@
-👋 Hi there! I'm Al Hasan Nirob, a passionate Front-End Web Developer and enthusiastic MERN stack developer. Welcome to my GitHub profile, where I showcase my projects, skills, and coding journey. Explore the world of web development with me! 🚀
+<h1 align="center">Hi 👋, I'm Al Hasan Nirob</h1>
+<h3 align="center">A passionate frontend developer from Bogura, Bangladesh</h3>
 
-🌐 I'm particularly skilled in building dynamic and responsive user interfaces using React.js. Currently in the process of learning the backend, I'm becoming familiar with Node.js and Express.js to craft robust and scalable server-side solutions. Whether it's creating interactive front-end experiences or delving into the intricacies of server-side architectures, I'm dedicated to delivering high-quality web applications
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-nirob1&label=Profile%20views&color=0e75b6&style=flat" alt="dev-nirob1" /> </p>
 
-🌐 I'm particularly skilled in:
+- 👨‍💻 All of my projects are available at [https://dev-nirob-portfolio.netlify.app/](https://dev-nirob-portfolio.netlify.app/)
 
-- **Front-End:** HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Redux-Toolkit
-- **Version Control:** Git & GitHub
+- 💬 Ask me about **Javascript, React**
 
-🌱 Currently, I'm learning backend development with:
+- 📫 How to reach me **me.nirob01@gmail.com**
 
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/al-hasan-nirob10925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="al-hasan-nirob10925" height="30" width="40" /></a>
+<a href="https://fb.com/alhasan.nirob.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alhasan.nirob.1" height="30" width="40" /></a>
+</p>
 
-🔧 Tools and Platforms:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-- Design: Figma to html
-- AI Assistance: ChatGPT
-- IDE: Visual Studio Code (VSCode)
-- Google, Stack Overflow, Documentation
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-nirob1&show_icons=true&locale=en&layout=compact" alt="dev-nirob1" /></p>
 
-🚀 Let's build amazing things together! 🌟
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-nirob1&show_icons=true&locale=en" alt="dev-nirob1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-nirob1&" alt="dev-nirob1" /></p>
