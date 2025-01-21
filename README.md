@@ -22,5 +22,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dev-nirob1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-nirob1&" alt="dev-nirob1" /></p>
